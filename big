@@ -1,0 +1,34 @@
+<html>
+      <head>
+            <title>Магазин Big boy</title>
+            <link rel="stylesheet" href="style.css"/>
+      </head>
+      <body> 
+            <header> 
+                   <a href="#shedule">\Розклад відчиння</a>
+                   <a href="#lessons">Про Бренд Bigboy</a>
+            </header>
+            <main>
+                  <h1> Вид одежди як є в BigBoy<br/><img src="https://images.shafastatic.net/1274808067" width="400px"/></h1>
+                  <h2 id="lessons">BigBoy Бренд одежди Який заснувал Antwan Andre Patton</h2>
+                  <p>BigBoy , заснувал в 1941-1944 гг, на североамериканском заводе ALCO</p>
+                  <p>Другим засновником є Otto Jabelmann.</p>
+                   <h2 id="shedule">BigBoy то стиль одежди для скейтеров.</h2>
+
+               <table> 
+                   
+                     <tr>
+                         <td>Магазин BigBoy , Вікривається о, ПН-ПТ 10-22 СБ-НД 12-21.</td>
+                         <td>Найнизьска ціна в магазині BigBoy , Джинси polar bigboy , 1100 грн. , Найдорожча , Джинси POL 2YK.</td>
+                         
+                     </tr>
+               </table>
+               <h2 id="photos">Фотографії BigBoy</h2>
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlrt7P-bUe5kcIWu_CeTYM3yEZ5ciTeRnOvg&s" width="200px">
+               <img src="https://scoot.com.ua/image/cache/catalog/cloth/polar/shorts/big_boy_dark_blue/Polar-Big-Boy-Shorts-Dark-Blue1-1200x1200.jpg" width="200px">
+               <img src="https://image-thumbs.shafastatic.net/-236899509_310_430" width="200px">
+               <img src="https://scoot.com.ua/image/cache/catalog/cloth/polar/pants/fall24/Polar-Skate-Co-F24-Big-Boy-Pants-Cord-Chocolate-1-1200x1200.jpg" width="200px">
+            </main> 
+        <footer>В мене в самого джинси BigBoy раджу </footer>
+      </body>
+</html>
